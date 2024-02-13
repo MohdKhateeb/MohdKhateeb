@@ -1,4 +1,4 @@
-[![MasterHead](https://personaldevelopmentwisdom.com/wp-content/uploads/2021/12/limit-success-life-confident-envision-dream-goal-journey-realistic-achieve-factor-forward-thoughts-learn-result-fear-accomplish.jpg)]
+[![MasterHead](https://onedrive.live.com/?cid=1190A9CFC8057ACB&id=1190A9CFC8057ACB%217879&parId=root&o=OneUp)]
 <h1 align="center">Hi 👋, I'm Mohd Khateeb</h1>
 <h3 align="center">Professional Engineering Aspirant having 8+ years of experience working in IT Operations industry. Skilled at IT Asset Management, MDM Intune, Remote Desktop Support, Data Analysis, Data Mining, IT Support and Reporting. Passionate about using Science and Technology for betterment of Organization.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.akashpixel.com/wp-content/uploads/2020/06/akashpixel-skills.gif">
