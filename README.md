@@ -1,4 +1,4 @@
-[![MasterHead](https://postimg.cc/HVVQD9xD)]
+[![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j8s2h4erdejm82dyyn7.png)]
 <h1 align="center">Hi 👋, I'm Mohd Khateeb</h1>
 <h3 align="center">Professional Engineering Aspirant having 8+ years of experience working in IT Operations industry. Skilled at IT Asset Management, MDM Intune, Remote Desktop Support, Data Analysis, Data Mining, IT Support and Reporting. Passionate about using Science and Technology for betterment of Organization.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.akashpixel.com/wp-content/uploads/2020/06/akashpixel-skills.gif">
