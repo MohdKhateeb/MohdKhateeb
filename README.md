@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.akashpixel.com/wp-content/uploads/2020/06/akashpixel-skills.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdkhateeb&label=Profile%20views&color=0e75b6&style=flat" alt="mohdkhateeb" /> </p>
 
-- #### **🔭 I’m currently working on [Microsoft Intune]**(https://onedrive.live.com/edit?id=1190A9CFC8057ACB!7864&resid=1190A9CFC8057ACB!7864&ithint=file%2cdocx&ct=1707835504211&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=670b7601-7f3b-44a1-98cf-e31d995a6e7d&wdo=2&cid=1190a9cfc8057acb)
+- #### **🔭 I’m currently working on [Microsoft Intune](https://onedrive.live.com/edit?id=1190A9CFC8057ACB!7864&resid=1190A9CFC8057ACB!7864&ithint=file%2cdocx&ct=1707835504211&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=670b7601-7f3b-44a1-98cf-e31d995a6e7d&wdo=2&cid=1190a9cfc8057acb)**
 
 ### **Skills and Expertise**
 - **IT Operations & Support:** Expertise in IT operations management, troubleshooting, and providing technical support to VIP users.
