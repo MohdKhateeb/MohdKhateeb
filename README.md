@@ -1,6 +1,6 @@
 [![logo](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j8s2h4erdejm82dyyn7.png)]
 <h1 align="center">Hi 👋, I'm Mohd Khateeb</h1>
-<h3 align="center">Professional Engineering Aspirant having 8+ years of experience working in IT Operations industry. Skilled at IT Asset Management, MDM Intune, Remote Desktop Support, Data Analysis, Data Mining, IT Support and Reporting. Passionate about using Science and Technology for betterment of Organization.</h3>
+<h3 align="center">I am a Microsoft Certified IT Professional with over 8 years of experience in IT operations and support, specializing in Data Center Asset Management, Remote Desktop Support, and Microsoft Intune. My expertise lies in delivering top-notch IT support services, enhancing IT infrastructure, and optimizing asset management processes. I have a proven track record of leading cross-functional teams to achieve significant improvements in customer satisfaction and reducing operational complaints.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.akashpixel.com/wp-content/uploads/2020/06/akashpixel-skills.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdkhateeb&label=Profile%20views&color=0e75b6&style=flat" alt="mohdkhateeb" /> </p>
 
