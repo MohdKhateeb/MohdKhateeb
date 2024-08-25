@@ -6,6 +6,14 @@
 
 - 🔭 I’m currently working on [Microsoft Intune](https://onedrive.live.com/edit?id=1190A9CFC8057ACB!7864&resid=1190A9CFC8057ACB!7864&ithint=file%2cdocx&ct=1707835504211&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=670b7601-7f3b-44a1-98cf-e31d995a6e7d&wdo=2&cid=1190a9cfc8057acb)
 
+### **Skills and Expertise**
+- **IT Operations & Support:** Expertise in IT operations management, troubleshooting, and providing technical support to VIP users.
+- **Data Center Asset Management:** Extensive experience in designing, developing, and implementing asset management processes, managing software and hardware lifecycles.
+- **Remote Desktop Support:** Skilled in remote troubleshooting, installation of applications, and resolving complex technical issues for users.
+- **Microsoft Intune (MDM):** Proficient in enrolling devices, setting up Autopilot programs, user and device management, and application deployment.
+- **ServiceNow & ITSM:** Hands-on experience with IT Service Management tools like ServiceNow, BMC Remedy, and handling IT support tickets.
+- **Azure Admin & AAD:** Expertise in managing Azure Active Directory, user management, and Intune integration.
+- **Technical Tools:** Flexera, Power BI, Dell Portal, LogMeIn, WebEx, Windows Native Tools.
 - 🌱 I’m currently learning **Microsoft Intune**
 
 - 👯 I’m looking to collaborate on **Microsoft Intune**
