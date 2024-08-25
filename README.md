@@ -14,11 +14,45 @@
 - **ServiceNow & ITSM:** Hands-on experience with IT Service Management tools like ServiceNow, BMC Remedy, and handling IT support tickets.
 - **Azure Admin & AAD:** Expertise in managing Azure Active Directory, user management, and Intune integration.
 - **Technical Tools:** Flexera, Power BI, Dell Portal, LogMeIn, WebEx, Windows Native Tools.
-- 🌱 I’m currently learning **Microsoft Intune**
 
+### **Services Offered**
+- **Remote IT Support:** Providing 24/7 remote desktop support, troubleshooting, and resolving hardware, software, and networking issues.
+- **Data Center Asset Management:** Offering strategic advice, process optimization, and lifecycle management for data center assets.
+- **Microsoft Intune Management:** Managing device enrolment, user management, application deployment, and troubleshooting for Intune.
+- **IT Operations Consulting:** Consulting on IT operations optimization, process improvement, and asset management strategies.
+- **Technical Training:** Conducting training sessions for teams on IT best practices, troubleshooting, and using IT tools effectively.
+
+### **Professional Experience**
+#### **IT Specialist at HCLTech**
+*Feb 2021 – Present*
+- **Roles:** Data Center Asset Management Lead, Remote Desktop Support Lead, Microsoft Intune L2 Support.
+- **Key Achievements:**
+  - Led a cross-functional team that improved customer satisfaction by 50% and reduced complaints by 20%.
+  - Drove multiple projects, including physical audits, RFID tag implementation, and asset value assessment.
+
+#### **Assistant Engineer IT at Collabera Technologies**
+*Jun 2019 – Jun 2020*
+- Provided IT support for critical operations, ensuring business continuity and troubleshooting technical issues.
+
+#### **Operations Executive at Tata Consultancy Services**
+*Aug 2014 – Jul 2018*
+- Managed IT operations for a large business team, troubleshooting network issues, and ensuring project readiness.
+
+### **Certifications**
+- **Microsoft Certified: Azure Administrator Associate**
+- **ITIL4 Foundation (Skillsoft)**
+- **Generative AI on AWS Essentials (Business)**
+- **Managing Modern Desktops: Intune Device Enrollment & Device Lifecycle Management**
+### **Portfolio/Projects**
+- **IT Asset Management Mass Refresh:** Successfully managed the mass refresh of data center assets, ensuring accurate inventory and optimal operation.
+
+### **Hobbies and Interests**
+- **Music & Movies:** Passionate about exploring different genres of music and movies.
+- **Internet & Traveling:** Enjoy researching tech trends and exploring new places.
+
+### **Get in Touch**
+I am currently open to freelance projects in IT support and management. If you are interested in my services or have any inquiries, feel free to reach out via the contact information provided above.
 - 👯 I’m looking to collaborate on **Microsoft Intune**
-
-- 🤝 I’m looking for help with **Microsoft Intune**
 
 - 💬 Ask me about **Microsoft Intune**
 
