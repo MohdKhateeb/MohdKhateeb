@@ -63,7 +63,7 @@ I am currently open to freelance projects in IT support and management. If you a
 
 - ⚡ Fun fact **My favorite word to use is "बेहतरीन"**
 
-<img width="500" alt="what-is-intune" src="https://github.com/user-attachments/assets/1811b2b3-f3d3-46cc-95e3-c5b79c7a680d">
+<img width="900" alt="what-is-intune" src="https://github.com/user-attachments/assets/1811b2b3-f3d3-46cc-95e3-c5b79c7a680d">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
