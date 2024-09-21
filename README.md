@@ -1,5 +1,5 @@
 
-<img width="1071" alt="what-is-intune" src="https://github.com/user-attachments/assets/1811b2b3-f3d3-46cc-95e3-c5b79c7a680d">
+<img width="500" alt="what-is-intune" src="https://github.com/user-attachments/assets/1811b2b3-f3d3-46cc-95e3-c5b79c7a680d">
 
 <h1 align="center">Hi 👋, I'm Mohd Khateeb</h1>
 <h3 align="center">I am a Microsoft Certified IT Professional with over 8 years of experience in IT operations and support, specializing in Data Center Asset Management, Remote Desktop Support, and Microsoft Intune. My expertise lies in delivering top-notch IT support services, enhancing IT infrastructure, and optimizing asset management processes. I have a proven track record of leading cross-functional teams to achieve significant improvements in customer satisfaction and reducing operational complaints.</h3>
