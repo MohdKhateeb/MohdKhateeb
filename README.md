@@ -1,6 +1,3 @@
-
-<img width="500" alt="what-is-intune" src="https://github.com/user-attachments/assets/1811b2b3-f3d3-46cc-95e3-c5b79c7a680d">
-
 <h1 align="center">Hi 👋, I'm Mohd Khateeb</h1>
 <h3 align="center">I am a Microsoft Certified IT Professional with over 8 years of experience in IT operations and support, specializing in Data Center Asset Management, Remote Desktop Support, and Microsoft Intune. My expertise lies in delivering top-notch IT support services, enhancing IT infrastructure, and optimizing asset management processes. I have a proven track record of leading cross-functional teams to achieve significant improvements in customer satisfaction and reducing operational complaints.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.akashpixel.com/wp-content/uploads/2020/06/akashpixel-skills.gif">
@@ -65,6 +62,8 @@ I am currently open to freelance projects in IT support and management. If you a
 - 📱 Cell +91 **8004060100**
 
 - ⚡ Fun fact **My favorite word to use is "बेहतरीन"**
+
+<img width="500" alt="what-is-intune" src="https://github.com/user-attachments/assets/1811b2b3-f3d3-46cc-95e3-c5b79c7a680d">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
