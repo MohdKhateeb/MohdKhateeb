@@ -1,4 +1,4 @@
-[[logo((https://1drv.ms/i/c/1190a9cfc8057acb/IQSHqGFqYGzBTrR2i4vz7dEmAU0btoJDAZmh7fxo8uuBelw?width=1024))]]
+[logo((https://1drv.ms/i/c/1190a9cfc8057acb/IQSHqGFqYGzBTrR2i4vz7dEmAU0btoJDAZmh7fxo8uuBelw?width=1024))]
 
 <h1 align="center">Hi 👋, I'm Mohd Khateeb</h1>
 <h3 align="center">I am a Microsoft Certified IT Professional with over 8 years of experience in IT operations and support, specializing in Data Center Asset Management, Remote Desktop Support, and Microsoft Intune. My expertise lies in delivering top-notch IT support services, enhancing IT infrastructure, and optimizing asset management processes. I have a proven track record of leading cross-functional teams to achieve significant improvements in customer satisfaction and reducing operational complaints.</h3>
