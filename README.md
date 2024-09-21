@@ -60,6 +60,8 @@ I am currently open to freelance projects in IT support and management. If you a
 
 - 📫 How to reach me **Khankhateeb7@gmail.com**
 
+- 📱 Cell +91 **8004060100**
+
 - ⚡ Fun fact **My favorite word to use is "बेहतरीन"**
 
 <h3 align="left">Connect with me:</h3>
