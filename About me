@@ -1,0 +1,71 @@
+# Microsoft Intune – Hands-on Endpoint Management Portfolio
+
+This repository showcases **hands-on, real-world implementation experience**
+with Microsoft Intune across **Windows, Android, and iOS** platforms.
+
+All labs are designed to reflect **enterprise production scenarios**
+and are aligned with **MD-102 (Endpoint Administrator)** and modern Zero Trust principles.
+
+---
+
+## 🔹 What This Portfolio Demonstrates
+
+- End-to-end **Windows endpoint lifecycle management**
+- **Zero-touch provisioning** using Windows Autopilot
+- **Conditional Access + Compliance** (Zero Trust enforcement)
+- **Android Enterprise BYOD** with Work Profile
+- **MAM without enrollment (MAM-WE)** for Android & iOS
+- Endpoint security hardening and automation concepts
+
+This is **implementation experience**, not theoretical notes.
+
+---
+
+## 🧩 Platform Coverage
+
+### 🪟 Windows
+- Automatic MDM Enrollment
+- Windows Autopilot (User-Driven)
+- Enrollment Status Page (ESP)
+- Compliance Policies
+- Conditional Access
+- BitLocker, Defender, ASR
+- Proactive Remediation
+
+### 🤖 Android
+- Android Enterprise (Work Profile)
+- BYOD Enrollment Restrictions
+- Managed Google Play
+- Compliance Policies (Root / USB Debugging)
+- MAM-WE (App Protection Policies)
+
+### 🍎 iOS / iPadOS
+- BYOD Enrollment
+- App Protection Policies (Outlook)
+- Selective Wipe & Device Wipe
+
+---
+
+## 🧠 Design Philosophy
+
+- **Security first, usability second**
+- Compliance is a **signal**, not enforcement
+- Conditional Access is the **decision engine**
+- Always test in **Report-only / Pilot groups**
+
+---
+
+## ⚠️ Disclaimer
+
+This repository uses **lab tenants only**.
+No production or customer data is exposed.
+
+---
+
+## 👤 Author
+
+**Mohd Khateeb**  
+Microsoft Certified Endpoint Administrator (MD-102)  
+Microsoft Azure Administrator (AZ-104)  
+
+🔗 LinkedIn: https://www.linkedin.com/in/mohd-khateeb/
