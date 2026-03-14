@@ -1,0 +1,79 @@
+# Microsoft Intune Troubleshooting Scenarios
+
+A collection of common enterprise Microsoft Intune troubleshooting scenarios with root cause analysis and resolution steps. Ideal for IT pros, endpoint engineers, and anyone working with modern device management.
+
+---
+
+## 🔹 Scenarios Covered
+
+<details>
+<summary>1. Autopilot ESP stuck during provisioning</summary>
+
+**Issue:** Device remains in the Enrollment Status Page (ESP) and provisioning never completes.  
+**Root Cause:** Often caused by slow network connectivity, pending policies, or misconfigured applications.  
+**Resolution:**  
+1. Check network connectivity and firewall rules.  
+2. Validate assigned applications and policies in Intune.  
+3. Restart the device and retry provisioning.  
+
+</details>
+
+<details>
+<summary>2. Device visible in Entra ID but missing in Intune</summary>
+
+**Issue:** Device shows in Azure AD but does not appear in Intune portal.  
+**Root Cause:** Enrollment may have failed or sync issues between Intune and Entra ID.  
+**Resolution:**  
+1. Verify device enrollment status in Intune logs.  
+2. Force sync from Intune Connector if applicable.  
+3. Re-enroll device if necessary.  
+
+</details>
+
+<details>
+<summary>3. Win32 application detection failures</summary>
+
+**Issue:** Win32 apps fail to install or show as not detected.  
+**Root Cause:** Detection rules or deployment settings misconfigured.  
+**Resolution:**  
+1. Check the detection rules and file paths.  
+2. Validate app deployment assignments.  
+3. Review logs on client device (`IntuneManagementExtension.log`).  
+
+</details>
+
+<details>
+<summary>4. Compliance policy conflicts</summary>
+
+**Issue:** Devices marked non-compliant even when all requirements are met.  
+**Root Cause:** Conflicting compliance policies or conditional access rules.  
+**Resolution:**  
+1. Review all assigned compliance policies for conflicts.  
+2. Check Conditional Access policies for enforcement.  
+3. Update policies to remove overlaps or contradictions.  
+
+</details>
+
+<details>
+<summary>5. Hybrid Azure AD Join issues</summary>
+
+**Issue:** Devices fail to join Azure AD in a hybrid environment.  
+**Root Cause:** Misconfigured Azure AD Connect, DNS, or device registration issues.  
+**Resolution:**  
+1. Verify Azure AD Connect sync status.  
+2. Confirm DNS configuration and SCP settings.  
+3. Re-register affected devices.  
+
+</details>
+
+---
+
+## 📂 How to Use
+
+- Bookmark this repo for quick troubleshooting reference.  
+- Apply root cause analysis steps before contacting support.  
+- Ideal for IT labs, interviews, and enterprise scenario simulations.  
+
+---
+
+**💡 Tip:** Keep this updated with new scenarios you encounter in the field. It’s a great way to showcase hands-on Intune expertise!
