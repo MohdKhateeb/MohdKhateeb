@@ -142,7 +142,7 @@ Projects include:
 * PowerShell automation scripts for endpoint reporting
 
 🔗 GitHub Lab Repository
-https://github.com/mohd-khateeb
+https://github.com/mohdkhateeb
 
 ---
 
